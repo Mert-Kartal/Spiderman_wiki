@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+
+.navbar{
+    background-color: #b03525 !important;
+}
+
+.spider{
+    color: rgb(1, 1, 107) !important;
+}
+
+a.spider:hover{
+    color: white !important;
+}
+
+div.contact{
+    min-width: auto;
+    min-height: 45rem;
+    background-color: #f8f9fb;
+}
+

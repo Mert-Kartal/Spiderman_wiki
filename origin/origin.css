@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+
+.navbar{
+    background-color: #b03525 !important;
+}
+
+.spider{
+    color: rgb(1, 1, 107) !important;
+}
+
+a.spider:hover{
+    color: white !important;
+}
+
+.start{
+    width: auto;
+    min-height:25rem;
+}
+
+.product{
+    width: auto;
+    min-height: 30rem;
+}
+
+@media (max-width: 600px) {
+    div.product img {
+      width:300px;
+      height: 200px;
+      margin-inline: auto;
+      display: block;
+      margin-block: auto ;
+    }
+  }
+  

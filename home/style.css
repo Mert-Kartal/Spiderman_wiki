@@ -1,0 +1,72 @@
+*{
+    box-sizing: border-box;
+}
+
+.navbar{
+    background-color: #b03525 !important;
+}
+
+.spider{
+    color: rgb(1, 1, 107) !important;
+}
+
+a.spider:hover{
+    color: white !important;
+}
+
+.strt{
+    min-height: 30rem;
+    min-width: auto;
+    background-color: #324c5b;
+}
+
+div.strt a.btn{
+    width: 10rem;
+    height: auto;
+}
+
+div.grtimg img{
+    width: 40rem;
+    height: 20rem;
+}
+
+div.peter{
+    width: auto;
+    min-height: 30rem;
+    background-color: #fef0d5;
+
+}
+
+.secret{
+    width: 3rem;
+    height: 3rem;
+}
+
+.may{
+    background-color: #194960;
+}
+
+.aunt{
+    width: auto;
+    height: 10rem;
+}
+
+.cardsx{
+    min-width: 100%;
+    min-height: 50rem;
+    background-color: #252a3d;
+}
+
+.card img{
+    height: 10rem;
+}
+
+.sign{
+    color:#378deb;
+}
+
+div.strt p{
+    color: #978f81;
+}
+
+ 
